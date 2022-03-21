@@ -1,0 +1,67 @@
+{
+  "id" : "https://bequessel.github.io/BurkhardQ/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in bequessel/BurkhardQ project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 7952,
+    "id" : "https://bequessel.github.io/BurkhardQ/images/DSC04819/canvas/",
+    "label" : {
+      "none" : [ "DSC04819" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://bequessel.github.io/BurkhardQ/images/DSC04819/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://bequessel.github.io/BurkhardQ/images/DSC04819/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 249,
+              "height" : 166
+            }, {
+              "width" : 497,
+              "height" : 332
+            }, {
+              "width" : 994,
+              "height" : 663
+            }, {
+              "width" : 1988,
+              "height" : 1326
+            }, {
+              "width" : 3976,
+              "height" : 2652
+            }, {
+              "width" : 7952,
+              "height" : 5304
+            } ],
+            "profile" : "level0",
+            "width" : 7952,
+            "id" : "https://bequessel.github.io/BurkhardQ/images/DSC04819",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5304
+          } ],
+          "format" : "image/jpeg",
+          "width" : 7952,
+          "id" : "https://bequessel.github.io/BurkhardQ/images/DSC04819/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 5304
+        },
+        "target" : "https://bequessel.github.io/BurkhardQ/images/DSC04819/canvas/"
+      } ]
+    } ],
+    "height" : 5304
+  } ]
+}
