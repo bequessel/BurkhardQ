@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4440,
+    "id" : "https://bequessel.github.io/BurkhardQ/images/testiiif/canvas/",
+    "label" : {
+      "none" : [ "testiiif" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://bequessel.github.io/BurkhardQ/images/testiiif/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://bequessel.github.io/BurkhardQ/images/testiiif/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 139,
+              "height" : 137
+            }, {
+              "width" : 278,
+              "height" : 274
+            }, {
+              "width" : 555,
+              "height" : 548
+            }, {
+              "width" : 1110,
+              "height" : 1095
+            }, {
+              "width" : 2220,
+              "height" : 2189
+            }, {
+              "width" : 4440,
+              "height" : 4378
+            } ],
+            "profile" : "level0",
+            "width" : 4440,
+            "id" : "https://bequessel.github.io/BurkhardQ/images/testiiif",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4378
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4440,
+          "id" : "https://bequessel.github.io/BurkhardQ/images/testiiif/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 4378
+        },
+        "target" : "https://bequessel.github.io/BurkhardQ/images/testiiif/canvas/"
+      } ]
+    } ],
+    "height" : 4378
+  }, {
     "width" : 7952,
     "id" : "https://bequessel.github.io/BurkhardQ/images/DSC04819/canvas/",
     "label" : {
