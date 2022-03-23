@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 236,
+    "height" : 99
+  }, {
+    "width" : 471,
+    "height" : 197
+  }, {
+    "width" : 941,
+    "height" : 393
+  }, {
+    "width" : 1881,
+    "height" : 786
+  }, {
+    "width" : 3761,
+    "height" : 1572
+  }, {
+    "width" : 7521,
+    "height" : 3144
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7521,
+  "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f121r",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3144
+}
