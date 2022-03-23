@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 213,
+    "height" : 49
+  }, {
+    "width" : 426,
+    "height" : 97
+  }, {
+    "width" : 851,
+    "height" : 194
+  }, {
+    "width" : 1702,
+    "height" : 387
+  }, {
+    "width" : 3403,
+    "height" : 773
+  }, {
+    "width" : 6806,
+    "height" : 1546
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6806,
+  "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002r",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1546
+}
