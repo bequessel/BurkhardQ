@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 7469,
+    "id" : "https://bequessel.github.io/BurkhardQ/images/Or5382_DSC00001/canvas/",
+    "label" : {
+      "none" : [ "Or5382_DSC00001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://bequessel.github.io/BurkhardQ/images/Or5382_DSC00001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://bequessel.github.io/BurkhardQ/images/Or5382_DSC00001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 234,
+              "height" : 48
+            }, {
+              "width" : 467,
+              "height" : 95
+            }, {
+              "width" : 934,
+              "height" : 190
+            }, {
+              "width" : 1868,
+              "height" : 380
+            }, {
+              "width" : 3735,
+              "height" : 759
+            }, {
+              "width" : 7469,
+              "height" : 1518
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 7469,
+            "@id" : "https://bequessel.github.io/BurkhardQ/images/Or5382_DSC00001",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1518
+          } ],
+          "format" : "image/jpeg",
+          "width" : 7469,
+          "id" : "https://bequessel.github.io/BurkhardQ/images/Or5382_DSC00001/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1518
+        },
+        "target" : "https://bequessel.github.io/BurkhardQ/images/Or5382_DSC00001/canvas/"
+      } ]
+    } ],
+    "height" : 1518
+  }, {
     "width" : 4440,
     "id" : "https://bequessel.github.io/BurkhardQ/images/testiiif/canvas/",
     "label" : {
@@ -63,5 +120,5 @@
       } ]
     } ],
     "height" : 4378
-  }]
+  } ]
 }
