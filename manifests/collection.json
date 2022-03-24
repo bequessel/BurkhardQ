@@ -1,0 +1,13 @@
+{
+  "id" : "https://bequessel.github.io/BurkhardQ/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in bequessel/BurkhardQ project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bequessel.github.io/BurkhardQ/manifests/manifest.json",
+    "label" : "Two illustrated manuscripts"
+  } ]
+}
