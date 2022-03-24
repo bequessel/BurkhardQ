@@ -73,6 +73,10 @@
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ],
+        "metadata" : [ {
+        "label" : "description",
+        "value" : "left and right: miniatures two deities, Samantabhadra and Vajradhara"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://b706b099-d7c0-4851-8faf-109920137d05",
@@ -124,6 +128,10 @@
           "width" : 6746
         },
         "on" : "http://3316f817-8f27-4d4f-8dcc-4691720b8db9"
+      } ],
+       "metadata" : [ {
+        "label" : "description",
+        "value" : "left and right: miniatures of a deity and of a saint (Tilopa)"
       } ],
       "related" : "http://www.bl.uk"
     }, {
