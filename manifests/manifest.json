@@ -1,220 +1,276 @@
 {
-  "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://bequessel.github.io/BurkhardQ/manifests/manifest.json",
-  "@type" : "sc:Manifest",
-  "label" : "Two illustrated manuscripts",
-  "metadata" : [ ],
-  "description" : [ {
-    "@value" : "Folios from two Tibetan manuscripts with illustrations",
-    "@language" : "en"
-  } ],
-  "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "The British Library",
-  "sequences" : [ {
-    "@id" : "http://d639a978-f549-4b86-9b49-a29e1ee2ecdb",
-    "@type" : "sc:Sequence",
-    "label" : [ {
-      "@value" : "Normal Sequence",
-      "@language" : "en"
-    } ],
-    "canvases" : [ {
-      "@id" : "http://4938a956-f2c6-4634-a0cd-a5eb190b7458",
-      "@type" : "sc:Canvas",
-      "label" : "Or 15292 1r",
-      "height" : 1546,
-      "width" : 6806,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://1e5fa754-ad94-4bda-9ff7-732877bc51e7",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://bequessel.github.io/BurkhardQ/images/UK_or_15292_f001r/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://bequessel.github.io/BurkhardQ/images/UK_or_15292_f001r",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 1546,
-          "width" : 6806
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://2d8983db-7b9c-468e-93bd-38fac30409db",
+    "@type": "sc:Manifest",
+    "label": "Two illustrated manuscripts",
+    "metadata": [],
+    "description": [
+        {
+            "@value": "Folios from two Tibetan manuscripts with illustrations",
+            "@language": "en"
+        }
+    ],
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "The British Library",
+    "sequences": [
+        {
+            "@id": "http://d639a978-f549-4b86-9b49-a29e1ee2ecdb",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "http://4938a956-f2c6-4634-a0cd-a5eb190b7458",
+                    "@type": "sc:Canvas",
+                    "label": "Or 15292 1r",
+                    "height": 1546,
+                    "width": 6806,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://1e5fa754-ad94-4bda-9ff7-732877bc51e7",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://bequessel.github.io/BurkhardQ/images/UK_or_15292_f001r/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://bequessel.github.io/BurkhardQ/images/UK_or_15292_f001r",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "height": 1546,
+                                "width": 6806
+                            },
+                            "on": "http://4938a956-f2c6-4634-a0cd-a5eb190b7458"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d",
+                    "@type": "sc:Canvas",
+                    "label": "Or 15292 1v",
+                    "height": 1488,
+                    "width": 6746,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://ab58cfe0-8cd3-4904-9917-47d90fd977d1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f001v/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f001v",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "height": 1488,
+                                "width": 6746
+                            },
+                            "on": "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://b706b099-d7c0-4851-8faf-109920137d05",
+                    "@type": "sc:Canvas",
+                    "label": "Or 15292 2r",
+                    "height": 1546,
+                    "width": 6806,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://adb5277d-d614-4d83-bee4-76ca1c190c7f",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002r/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002r",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "height": 1546,
+                                "width": 6806
+                            },
+                            "on": "http://b706b099-d7c0-4851-8faf-109920137d05"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://3316f817-8f27-4d4f-8dcc-4691720b8db9",
+                    "@type": "sc:Canvas",
+                    "label": "Or 15292 2v",
+                    "height": 1488,
+                    "width": 6746,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://245db5bf-6e70-45f1-960f-0b3cf75494fe",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002v/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002v",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "height": 1488,
+                                "width": 6746
+                            },
+                            "on": "http://3316f817-8f27-4d4f-8dcc-4691720b8db9"
+                        }
+                    ],
+                    "related": "http://www.bl.uk"
+                },
+                {
+                    "@id": "http://e9a2ae6e-e3dd-41ca-9d31-ddba1520138d",
+                    "@type": "sc:Canvas",
+                    "label": "Add Or 15522 43r",
+                    "height": 3091,
+                    "width": 7574,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://ed290176-f4dc-430a-a0e2-019f03cc0d39",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f43rb/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f43rb",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "height": 3091,
+                                "width": 7574
+                            },
+                            "on": "http://e9a2ae6e-e3dd-41ca-9d31-ddba1520138d"
+                        }
+                    ],
+                    "otherContent": [
+    {
+        "@id": "https://bequessel.github.io/BurkhardQ/annotations/6b65871761c03fadfdd6e21b4fb67972.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+]
+                    "metadata": [
+                        {
+                            "label": "description",
+                            "value": "drawing of Lama with ritual drum (for gcod practice popular in the tradition to which this text belongs)"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://6e5718b9-b359-4bad-9e4a-8e4cbd9c9999",
+                    "@type": "sc:Canvas",
+                    "label": "Add_Or_15522_121r",
+                    "height": 3144,
+                    "width": 7521,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://096e51be-a0cf-4668-99a8-c8acebbba830",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f121r/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f121r",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "height": 3144,
+                                "width": 7521
+                            },
+                            "on": "http://6e5718b9-b359-4bad-9e4a-8e4cbd9c9999"
+                        }
+                    ],
+                    "metadata": [
+                        {
+                            "label": "description",
+                            "value": "drawing of 18th century type weapon at the bottom"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "folio 121r"
+                        }
+                    ],
+                    "related": ""
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "@id": "http://2d8983db-7b9c-468e-93bd-38fac30409db/range1",
+            "@type": "sc:Range",
+            "label": "Folios from Or 15292",
+            "canvases": [
+                "http://4938a956-f2c6-4634-a0cd-a5eb190b7458",
+                "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d",
+                "http://b706b099-d7c0-4851-8faf-109920137d05",
+                "http://3316f817-8f27-4d4f-8dcc-4691720b8db9"
+            ],
+            "metadata": [
+                {
+                    "label": "title",
+                    "value": "rdzogs pa chen po snying po don gyis gter mdzod "
+                },
+                {
+                    "label": "title (Tibetan)",
+                    "value": "རྫོགས་པ་ཆེན་པོ་སྙིངཔོ་དོན་གྱིས་གཏེར་མཛོད་"
+                },
+                {
+                    "label": "Extent",
+                    "value": "folios 1r to 2v"
+                }
+            ]
         },
-        "on" : "http://4938a956-f2c6-4634-a0cd-a5eb190b7458"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d",
-      "@type" : "sc:Canvas",
-      "label" : "Or 15292 1v",
-      "height" : 1488,
-      "width" : 6746,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://ab58cfe0-8cd3-4904-9917-47d90fd977d1",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f001v/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f001v",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 1488,
-          "width" : 6746
-        },
-        "on" : "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://b706b099-d7c0-4851-8faf-109920137d05",
-      "@type" : "sc:Canvas",
-      "label" : "Or 15292 2r",
-      "height" : 1546,
-      "width" : 6806,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://adb5277d-d614-4d83-bee4-76ca1c190c7f",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002r/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002r",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 1546,
-          "width" : 6806
-        },
-        "on" : "http://b706b099-d7c0-4851-8faf-109920137d05"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://3316f817-8f27-4d4f-8dcc-4691720b8db9",
-      "@type" : "sc:Canvas",
-      "label" : "Or 15292 2v",
-      "height" : 1488,
-      "width" : 6746,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://245db5bf-6e70-45f1-960f-0b3cf75494fe",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002v/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_or_15292_f002v",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 1488,
-          "width" : 6746
-        },
-        "on" : "http://3316f817-8f27-4d4f-8dcc-4691720b8db9"
-      } ],
-      "related" : "http://www.bl.uk"
-    }, {
-      "@id" : "http://e9a2ae6e-e3dd-41ca-9d31-ddba1520138d",
-      "@type" : "sc:Canvas",
-      "label" : "Add Or 15522 43r",
-      "height" : 3091,
-      "width" : 7574,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://ed290176-f4dc-430a-a0e2-019f03cc0d39",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f43rb/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f43rb",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 3091,
-          "width" : 7574
-        },
-        "on" : "http://e9a2ae6e-e3dd-41ca-9d31-ddba1520138d"
-      } ],
-      "metadata" : [ {
-        "label" : "description",
-        "value" : "drawing of Lama with ritual drum (for gcod practice popular in the tradition to which this text belongs)"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://6e5718b9-b359-4bad-9e4a-8e4cbd9c9999",
-      "@type" : "sc:Canvas",
-      "label" : "Add_Or_15522_121r",
-      "height" : 3144,
-      "width" : 7521,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://096e51be-a0cf-4668-99a8-c8acebbba830",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f121r/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f121r",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 3144,
-          "width" : 7521
-        },
-        "on" : "http://6e5718b9-b359-4bad-9e4a-8e4cbd9c9999"
-      } ],
-      "metadata" : [ {
-        "label" : "description",
-        "value" : "drawing of 18th century type weapon at the bottom"
-      }, {
-        "label" : "Extent",
-        "value" : "folio 121r"
-      } ],
-      "related" : ""
-    } ]
-  } ],
-  "structures" : [ {
-    "@id" : "http://2d8983db-7b9c-468e-93bd-38fac30409db/range1",
-    "@type" : "sc:Range",
-    "label" : "Folios from Or 15292",
-    "canvases" : [ "http://4938a956-f2c6-4634-a0cd-a5eb190b7458", "http://84baca7e-e455-402f-baa4-3fe2a7d92d7d", "http://b706b099-d7c0-4851-8faf-109920137d05", "http://3316f817-8f27-4d4f-8dcc-4691720b8db9" ],
-    "metadata" : [ {
-      "label" : "title",
-      "value" : "rdzogs pa chen po snying po don gyis gter mdzod "
-    }, {
-      "label" : "title (Tibetan)",
-      "value" : "རྫོགས་པ་ཆེན་པོ་སྙིངཔོ་དོན་གྱིས་གཏེར་མཛོད་"
-    }, {
-      "label" : "Extent",
-      "value" : "folios 1r to 2v"
-    } ]
-  }, {
-    "@id" : "http://2d8983db-7b9c-468e-93bd-38fac30409db/range2",
-    "@type" : "sc:Range",
-    "label" : "Folios from Add Or 15522",
-    "canvases" : [ "http://e9a2ae6e-e3dd-41ca-9d31-ddba1520138d", "http://6e5718b9-b359-4bad-9e4a-8e4cbd9c9999" ],
-    "metadata" : [ {
-      "label" : "title",
-      "value" : "pad ma bka' thang "
-    }, {
-      "label" : "title (Tibetan)",
-      "value" : "པད་མ་བཀའ་ཐང་"
-    }, {
-      "label" : "Extent",
-      "value" : "selected folios 43r and 121r only"
-    } ]
-  } ]
+        {
+            "@id": "http://2d8983db-7b9c-468e-93bd-38fac30409db/range2",
+            "@type": "sc:Range",
+            "label": "Folios from Add Or 15522",
+            "canvases": [
+                "http://e9a2ae6e-e3dd-41ca-9d31-ddba1520138d",
+                "http://6e5718b9-b359-4bad-9e4a-8e4cbd9c9999"
+            ],
+            "metadata": [
+                {
+                    "label": "title",
+                    "value": "pad ma bka' thang "
+                },
+                {
+                    "label": "title (Tibetan)",
+                    "value": "པད་མ་བཀའ་ཐང་"
+                },
+                {
+                    "label": "Extent",
+                    "value": "selected folios 43r and 121r only"
+                }
+            ]
+        }
+    ]
 }
