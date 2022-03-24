@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://bequessel.github.io/BurkhardQ/annotations/2f91853254aa0181177e06a2289c8f09.json" ],
+  "otherContent" : [ "https://bequessel.github.io/BurkhardQ/annotations/2f91853254aa0181177e06a2289c8f09.json", "https://bequessel.github.io/BurkhardQ/annotations/6b65871761c03fadfdd6e21b4fb67972.json" ],
   "@id" : "https://bequessel.github.io/BurkhardQ/annotations/collection.json",
   "label" : "All annotations loaded in bequessel/BurkhardQ project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
