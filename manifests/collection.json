@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://bequessel.github.io/BurkhardQ/manifests/manifest3.json",
     "label" : "Two illustrated manuscripts"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bequessel.github.io/BurkhardQ/manifests/manifest4.json",
+    "label" : "Two illustrated manuscripts"
   } ]
 }
