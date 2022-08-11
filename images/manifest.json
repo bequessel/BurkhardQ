@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3596,
+    "id" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AR1_ST_L/canvas/",
+    "label" : {
+      "none" : [ "MSSEURE226_87AR1_ST_L" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AR1_ST_L/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AR1_ST_L/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 113,
+              "height" : 167
+            }, {
+              "width" : 225,
+              "height" : 334
+            }, {
+              "width" : 450,
+              "height" : 668
+            }, {
+              "width" : 899,
+              "height" : 1335
+            }, {
+              "width" : 1798,
+              "height" : 2669
+            }, {
+              "width" : 3596,
+              "height" : 5338
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3596,
+            "@id" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AR1_ST_L",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5338
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3596,
+          "id" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AR1_ST_L/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 5338
+        },
+        "target" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AR1_ST_L/canvas/"
+      } ]
+    } ],
+    "height" : 5338
+  }, {
     "width" : 7521,
     "id" : "https://bequessel.github.io/BurkhardQ/images/Uk_Add_MS_15522_f121r/canvas/",
     "label" : {
