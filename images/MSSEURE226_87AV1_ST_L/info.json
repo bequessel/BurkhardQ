@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 113,
+    "height" : 167
+  }, {
+    "width" : 225,
+    "height" : 333
+  }, {
+    "width" : 450,
+    "height" : 666
+  }, {
+    "width" : 899,
+    "height" : 1332
+  }, {
+    "width" : 1798,
+    "height" : 2664
+  }, {
+    "width" : 3596,
+    "height" : 5328
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3596,
+  "@id" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AV1_ST_L",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5328
+}
