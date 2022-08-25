@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://bequessel.github.io/BurkhardQ/manifests/manifest4.json",
     "label" : "Two illustrated manuscripts"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bequessel.github.io/BurkhardQ/manifests/bogle_A_recto.json",
+    "label" : "Bogle Scroll A recto"
   } ]
 }
