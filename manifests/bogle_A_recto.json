@@ -1,0 +1,48 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://bequessel.github.io/BurkhardQ/manifests/bogle_A_recto.json",
+  "@type" : "sc:Manifest",
+  "label" : "Bogle Scroll A recto",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://1785bb87-a59a-4eef-b487-82941626f311",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://4bbb38bf-02e2-4c9f-abae-5ff9c2547684",
+      "@type" : "sc:Canvas",
+      "label" : "Or 15789",
+      "height" : 5338,
+      "width" : 3596,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://19bfd693-7d84-4cf9-adfa-58b1bf665efc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AR1_ST_L/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bequessel.github.io/BurkhardQ/images/MSSEURE226_87AR1_ST_L",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5338,
+          "width" : 3596
+        },
+        "on" : "http://4bbb38bf-02e2-4c9f-abae-5ff9c2547684"
+      } ],
+      "related" : ""
+    } ]
+  } ]
+}
