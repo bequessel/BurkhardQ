@@ -23,10 +23,6 @@
     "label" : "Bogle Scroll A recto"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://bequessel.github.io/BurkhardQ/manifests/Or_16756_jcbq.json",
-    "label" : "The Life and Songs of the Yogi Milarepa"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://bequessel.github.io/BurkhardQ/manifests/Or_16756.json",
     "label" : "The Life and Songs of the Yogi Milarepa"
   } ]
