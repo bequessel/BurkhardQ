@@ -69392,6 +69392,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.394r"
+                        },
+                        {
+                            "label": "description",
+                            "value": "stray folio from encounter of Gampopa with Milarepa"
                         }
                     ],
                     "height": 2202,
@@ -70257,6 +70261,10 @@
                         {
                             "label": "Identifier",
                             "value": "fblef"
+                        },
+                        {
+                            "label": "Description",
+                            "value": "wooden book cover with carvings of the Ali Kali (Sanskrit alphabet) mantra from a to tha in Ranjana script and the eight auspicious symbols"
                         }
                     ],
                     "height": 2202,
@@ -71202,7 +71210,8 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_5",
+                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4"
             ]
         },
         {
@@ -71703,6 +71712,25 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_293",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_294"
             ]
+        },
+         {
+            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_5",
+            "@type": "sc:Range",
+            "label": "Explicit and Colophon",
+            "viewingHint": "individuals",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "Explicit and Colophon"
+                }
+            ],
+            "canvases": [
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_786",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_787",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_789",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_790",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_791"
+                    ]
         },
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_11",
@@ -72299,16 +72327,8 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_784",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_785",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_786",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_787",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_788",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_789",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_790",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_791",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_792",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_793",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_794",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_795",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_796"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_787"
+              
             ]
         },
         {
@@ -72339,25 +72359,30 @@
                 }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
+               "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_1",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_2",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_792",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_793"
             ]
         },
         {
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4_2",
             "@type": "sc:Range",
-            "label": "Extra images pt 2",
+            "label": "Extra images -- cover",
             "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Extra images pt 2"
+                    "value": "Extra images-- cover"
                 }
             ],
             "canvases": [
+             "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_3",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_4",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_5",
+               "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_794",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_795",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_796",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_797",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_798",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_799",
