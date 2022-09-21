@@ -336,6 +336,10 @@
                             "value": "f.2r"
                         },
                         {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">རིགས་དང་འབྲེལ་བ་དཀའ་བ་སྤྱད་པའི་ཡོན་ཏན</span>"
+                        },
+                        {
                             "label": "Content",
                             "value": "<p>2r1) rje btsun mi la\u2019i sku la phyag \u2018tshal \u2018dud // dpal nā ro pas lung bstan cing / bsgrub pa\u2019i brtson \u2018grus la yi rang nas / rgya ga</p><p>2r2) nas bod du zhal bstan rkyang phyag mdzad pa / byang phyogs kha ba can gyi ljongs na \u2018gran zla thams cad dang bral ba / rje btsun mi la ras pa chen po de nyid la yon tan gnyis te / rigs dang</p> <p>2r3) &apos;brel ba dka&apos; ba spyad pa&apos;i yon tan dang / ting nge &apos;dzin &apos;brel pa nyams su myong ba\u2019i yon tan te gnyis / de la dka&apos; ba spyad pa&apos;i yon tan ni / rtsa la stod kyi khab gung thang du</p><p>2r4) yul chung skya lnga rtsa\u2019i ke ron bya ba na / gdung rus khyung po\u2019i nang tshan mi la / yang myes mdong ston seng ge / myes po rdo rje seng ge zer ba yang \u2018dug / de\u2019i sras yab shes rab</p><p>2r5) rgyal mtshan dang / yum nyang gza\u2019 lhan ne dkar legs ma bya ba las byi ba\u2019i lo la rje btsun chen po sku \u2018khrungs / de nas lo gsum dang zhag bdun nas lcam pre ta skyes te ming mgon skyid btags so </p><p>2r6) zas nor la sogs \u2018dzom po yod tsam na / rje btsun chen po lo bdun len pa\u2019i dus su yab \u2018das nas / ma smad gsum \u2018dus pa la / khu bo mi mang la nor \u2018bul ba tshan cig yod pa </p>"
                         }
@@ -3774,6 +3778,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.21v"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ཏིང་ངེ་འཛིན་དང་འབྲེལ་པའི་ཉམས་སུ་མྱོང་བའི་ཡོན་ཏན་བཅུ་བདུན--- འཁོར་བ་ལ་སྙིང་པོ་མེད་པའི་ཡོན་ཏན་</span>"
                         }
                     ],
                     "height": 2059,
@@ -4302,6 +4310,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.24v"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">རྨི་ལམ་བརྡར་ཤར་བའི་ཡོན་ཏན</span>"
                         }
                     ],
                     "height": 2105,
@@ -5622,6 +5634,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.32r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">བདེ་དྲོད་ངོ་འཕྲོད་པའི་ཡོན་ཏན་</span>"
                         }
                     ],
                     "height": 2132,
@@ -9494,6 +9510,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.54r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ཟས་གོས་༼ཀྱིས༽་འདུན་པ་དང་བྲལ་བའི་ཡོན་ཏན་</span>"
                         }
                     ],
                     "height": 2190,
@@ -10530,6 +10550,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.60r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ཉམ༼ས༽་མྱོང་བདེ་བར་ཤར་བའི་ཡོན་ཏན</span>"
                         }
                     ],
                     "height": 2143,
@@ -11234,6 +11258,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.64r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">རྟོགས་པ་ལམ་དུ་ཤར་བའི་ཡོན་ཏན་</span>"
                         }
                     ],
                     "height": 2160,
@@ -12642,6 +12670,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.72r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">མཐུན་རྐྱེན་ཏུ་ཤར་བའི་ཡོན་ཏན</span>"
                         }
                     ],
                     "height": 2149,
@@ -17560,6 +17592,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.100r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ཆོས་བརྒྱད་རང་གྲོལ་གྱི་ཡོན་ཏན</span>"
                         }
                     ],
                     "height": 2148,
@@ -18440,6 +18476,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.105r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">རྩོད་པས་མི་རྫི་བའི་ཡོན་ཏན</span>"
                         }
                     ],
                     "height": 2140,
@@ -24688,6 +24728,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.140v"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">དྲིན་ལེན་༼ལན་༽བསབས་པའི་ཡོན་ཏན་</span>"
                         }
                     ],
                     "height": 2264,
@@ -25480,6 +25524,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.145r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">སྤྱོད་པ་ཆེ་བའི་ཡོན་ཏན་</span>"
                         }
                     ],
                     "height": 2216,
@@ -26712,6 +26760,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.152r (illust.)"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ལྷའི་ལྷར་གྱུར་བའི་ཡོན་ཏན</span>"
                         }
                     ],
                     "height": 2303,
@@ -28384,6 +28436,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.161v (illust.)"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ཡེ་ཤེས་སྒྲོན་མེ་བལྟམ་པའི་ཡོན་ཏན </span>"
                         }
                     ],
                     "height": 2303,
@@ -31816,6 +31872,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.181r (illust.)"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ནུས་པ་ཆེ་བའི་ཡོན་ཏན་ </span>"
                         }
                     ],
                     "height": 2303,
@@ -32696,6 +32756,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.186r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">བྱིན་བརླབ་ཆེ་བའི་ཡོན་ཏན་ </span>"
                         }
                     ],
                     "height": 2303,
@@ -41760,6 +41824,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.237v"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པའི་ཡོན་ཏན </span>"
                         }
                     ],
                     "height": 2251,
@@ -42200,6 +42268,10 @@
                         {
                             "label": "Identifier",
                             "value": "f.240r"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "<span is=\"bo\">ཕྱག་རྒྱ་ཆེན་པོ་ངོ་སྤྲོད་པའི་ཡོན་ཏན </span>"
                         }
                     ],
                     "height": 2251,
@@ -71158,7 +71230,7 @@
             "metadata": [
                 {
                     "label": "Identifier",
-                    "value": "Qualities of dealing with the difficulties connected with his family"
+                    "value": "Qualities of dealing with the difficulty connected with his family"
                 }
             ],
             "canvases": [
