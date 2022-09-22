@@ -8097,11 +8097,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_96",
                     "@type": "sc:Canvas",
-                    "label": "f.46r (illust.)",
+                    "label": "f.46r",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.46r (illust.)"
+                            "value": "f.46r "
                         }
                     ],
                     "height": 2130,
