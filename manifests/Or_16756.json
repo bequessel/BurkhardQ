@@ -9851,11 +9851,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_116",
                     "@type": "sc:Canvas",
-                    "label": "f.56r (illust.)",
+                    "label": "f.56r",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.56r (illust.)"
+                            "value": "f.56r"
                         }
                     ],
                     "height": 2139,
