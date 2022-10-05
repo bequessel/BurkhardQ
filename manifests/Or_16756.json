@@ -10568,7 +10568,7 @@
                                 "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/124.jp2/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpg",
-                                "service": {
+                               "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
                                     "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/124.jp2",
                                     "protocol": "http://iiif.io/api/image",
@@ -72394,7 +72394,7 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_802",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_803",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_804",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_805"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_805xywh=250,250,300,300"
             ]
         }
     ]
