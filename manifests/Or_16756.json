@@ -66995,11 +66995,11 @@
                 {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_765",
                     "@type": "sc:Canvas",
-                    "label": "f.380v (illust.)",
+                    "label": "f.380v",
                     "metadata": [
                         {
                             "label": "Identifier",
-                            "value": "f.380v (illust.)"
+                            "value": "f.380v"
                         }
                     ],
                     "height": 2202,
@@ -72394,7 +72394,7 @@
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_802",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_803",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_804",
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_805#xywh=0,0,500,500"
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_805"
             ]
         }
     ]
