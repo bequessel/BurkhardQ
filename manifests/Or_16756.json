@@ -22,7 +22,7 @@
             "value": "<a href=\"https://www.bl.uk\">The British Library</a>"
         },
         {
-            "label": "Title",
+            "label": "Tibetan",
             "value": "དཔལ་བཞད་པ་རྡོ་རྗེའི་རྣམ་ཐར་འགུར་མ་འཆིངས་དང་བཅས་"
         },
         {
@@ -336,7 +336,7 @@
                             "value": "f.2r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "རིགས་དང་འབྲེལ་བ་དཀའ་བ་སྤྱད་པའི་ཡོན་ཏན"
                         },
                         {
@@ -3780,7 +3780,7 @@
                             "value": "f.21v"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ཏིང་ངེ་འཛིན་དང་འབྲེལ་པའི་ཉམས་སུ་མྱོང་བའི་ཡོན་ཏན་བཅུ་བདུན--- འཁོར་བ་ལ་སྙིང་པོ་མེད་པའི་ཡོན་ཏན་"
                         }
                     ],
@@ -4310,10 +4310,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.24v"
-                        },
-                        {
-                            "label": "Title",
-                            "value": "རྨི་ལམ་བརྡར་ཤར་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2105,
@@ -5634,10 +5630,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.32r"
-                        },
-                        {
-                            "label": "Title",
-                            "value": "བདེ་དྲོད་ངོ་འཕྲོད་པའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2132,
@@ -9512,7 +9504,7 @@
                             "value": "f.54r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ཟས་གོས་༼ཀྱིས༽་འདུན་པ་དང་བྲལ་བའི་ཡོན་ཏན་"
                         }
                     ],
@@ -10552,7 +10544,7 @@
                             "value": "f.60r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ཉམ༼ས༽་མྱོང་བདེ་བར་ཤར་བའི་ཡོན་ཏན"
                         }
                     ],
@@ -11260,7 +11252,7 @@
                             "value": "f.64r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "རྟོགས་པ་ལམ་དུ་ཤར་བའི་ཡོན་ཏན་"
                         }
                     ],
@@ -12672,7 +12664,7 @@
                             "value": "f.72r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "མཐུན་རྐྱེན་ཏུ་ཤར་བའི་ཡོན་ཏན"
                         }
                     ],
@@ -17594,7 +17586,7 @@
                             "value": "f.100r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ཆོས་བརྒྱད་རང་གྲོལ་གྱི་ཡོན་ཏན"
                         }
                     ],
@@ -18478,7 +18470,7 @@
                             "value": "f.105r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "རྩོད་པས་མི་རྫི་བའི་ཡོན་ཏན"
                         }
                     ],
@@ -24730,7 +24722,7 @@
                             "value": "f.140v"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "དྲིན་ལེན་༼ལན་༽བསབས་པའི་ཡོན་ཏན་"
                         }
                     ],
@@ -25526,7 +25518,7 @@
                             "value": "f.145r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "སྤྱོད་པ་ཆེ་བའི་ཡོན་ཏན་"
                         }
                     ],
@@ -26762,7 +26754,7 @@
                             "value": "f.152r (illust.)"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ལྷའི་ལྷར་གྱུར་བའི་ཡོན་ཏན"
                         }
                     ],
@@ -28438,7 +28430,7 @@
                             "value": "f.161v (illust.)"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ཡེ་ཤེས་སྒྲོན་མེ་བལྟམ་པའི་ཡོན་ཏན "
                         }
                     ],
@@ -31874,7 +31866,7 @@
                             "value": "f.181r (illust.)"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ནུས་པ་ཆེ་བའི་ཡོན་ཏན་ "
                         }
                     ],
@@ -32758,7 +32750,7 @@
                             "value": "f.186r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "བྱིན་བརླབ་ཆེ་བའི་ཡོན་ཏན་ </span>"
                         }
                     ],
@@ -41826,7 +41818,7 @@
                             "value": "f.237v"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པའི་ཡོན་ཏན </span>"
                         }
                     ],
@@ -42270,7 +42262,7 @@
                             "value": "f.240r"
                         },
                         {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "ཕྱག་རྒྱ་ཆེན་པོ་ངོ་སྤྲོད་པའི་ཡོན་ཏན </span>"
                         }
                     ],
@@ -71249,7 +71241,7 @@
                     "value": "Qualities of dealing with the difficulty connected with his family"
                 },
                 {
-                            "label": "Title",
+                            "label": "Tibetan",
                             "value": "རིགས་དང་འབྲེལ་བ་དཀའ་བ་སྤྱད་པའི་ཡོན་ཏན"
                         }
             ],
@@ -71336,7 +71328,11 @@
                 {
                     "label": "Identifier",
                     "value": "1. The qualities of the lack of essence to samsara"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ཏིང་ངེ་འཛིན་དང་འབྲེལ་པའི་ཉམས་སུ་མྱོང་བའི་ཡོན་ཏན་བཅུ་བདུན--- འཁོར་བ་ལ་སྙིང་པོ་མེད་པའི་ཡོན་ཏན་"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_47",
@@ -71357,7 +71353,11 @@
                 {
                     "label": "Identifier",
                     "value": "2. The quality of dreams arisen as symbols"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "རྨི་ལམ་བརྡར་ཤར་བའི་ཡོན་ཏན"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_53",
@@ -71387,7 +71387,11 @@
                 {
                     "label": "Identifier",
                     "value": "3. The quality of being acquainted with bliss-warmth"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "བདེ་དྲོད་ངོ་འཕྲོད་པའི་ཡོན་ཏན་"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_68",
