@@ -9495,10 +9495,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.54r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "ཟས་གོས་༼ཀྱིས༽་འདུན་པ་དང་བྲལ་བའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2190,
@@ -10535,10 +10531,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.60r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "ཉམ༼ས༽་མྱོང་བདེ་བར་ཤར་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2143,
@@ -11243,10 +11235,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.64r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "རྟོགས་པ་ལམ་དུ་ཤར་བའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2160,
@@ -12655,10 +12643,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.72r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "མཐུན་རྐྱེན་ཏུ་ཤར་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2149,
@@ -17577,10 +17561,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.100r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "ཆོས་བརྒྱད་རང་གྲོལ་གྱི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2148,
@@ -18461,10 +18441,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.105r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "རྩོད་པས་མི་རྫི་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2140,
@@ -24713,10 +24689,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.140v"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "དྲིན་ལེན་༼ལན་༽བསབས་པའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2264,
@@ -25509,10 +25481,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.145r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "སྤྱོད་པ་ཆེ་བའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2216,
@@ -26745,10 +26713,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.152r (illust.)"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "ལྷའི་ལྷར་གྱུར་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2303,
@@ -28421,10 +28385,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.161v (illust.)"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "ཡེ་ཤེས་སྒྲོན་མེ་བལྟམ་པའི་ཡོན་ཏན "
                         }
                     ],
                     "height": 2303,
@@ -31857,10 +31817,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.181r (illust.)"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "ནུས་པ་ཆེ་བའི་ཡོན་ཏན་ "
                         }
                     ],
                     "height": 2303,
@@ -32741,10 +32697,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.186r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "བྱིན་བརླབ་ཆེ་བའི་ཡོན་ཏན་ </span>"
                         }
                     ],
                     "height": 2303,
@@ -41809,10 +41761,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.237v"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པའི་ཡོན་ཏན </span>"
                         }
                     ],
                     "height": 2251,
@@ -42253,10 +42201,6 @@
                         {
                             "label": "Identifier",
                             "value": "f.240r"
-                        },
-                        {
-                            "label": "Tibetan",
-                            "value": "ཕྱག་རྒྱ་ཆེན་པོ་ངོ་སྤྲོད་པའི་ཡོན་ཏན </span>"
                         }
                     ],
                     "height": 2251,
@@ -71447,7 +71391,11 @@
                 {
                     "label": "Identifier",
                     "value": "4. The freedom from craving for food and clothing"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ཟས་གོས་༼ཀྱིས༽་འདུན་པ་དང་བྲལ་བའི་ཡོན་ཏན་"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_112",
@@ -71474,7 +71422,11 @@
                 {
                     "label": "Identifier",
                     "value": "5. The quality of the dawning of blissful experience"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ཉམ༼ས༽་མྱོང་བདེ་བར་ཤར་བའི་ཡོན་ཏན"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_124",
@@ -71497,7 +71449,11 @@
                 {
                     "label": "Identifier",
                     "value": "6. The quality of the dawning of realization path"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "རྟོགས་པ་ལམ་དུ་ཤར་བའི་ཡོན་ཏན་"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_132",
@@ -71528,7 +71484,11 @@
                 {
                     "label": "Identifier",
                     "value": "7. The quality of the dawning of agreeable conditions [for appearances]"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "མཐུན་རྐྱེན་ཏུ་ཤར་བའི་ཡོན་ཏན"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_148",
@@ -71599,7 +71559,11 @@
                 {
                     "label": "Identifier",
                     "value": "8. The dawning of the eight worldly attitudes as naturally free"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ཆོས་བརྒྱད་རང་གྲོལ་གྱི་ཡོན་ཏན"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_204",
@@ -71624,7 +71588,11 @@
                 {
                     "label": "Identifier",
                     "value": "9. The quality of not being disturbed by debate"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "རྩོད་པས་མི་རྫི་བའི་ཡོན་ཏན"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_214",
@@ -71710,7 +71678,11 @@
                 {
                     "label": "Identifier",
                     "value": "10. The quality of repaying past kindnesses"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "དྲིན་ལེན་༼ལན་༽བསབས་པའི་ཡོན་ཏན་"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_285",
@@ -71753,7 +71725,11 @@
                 {
                     "label": "Identifier",
                     "value": "11. The quality of his greater conduct"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "སྤྱོད་པ་ཆེ་བའི་ཡོན་ཏན་"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_294",
@@ -71782,7 +71758,11 @@
                 {
                     "label": "Identifier",
                     "value": "12. The quality of having become a god among gods"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ལྷའི་ལྷར་གྱུར་བའི་ཡོན་ཏན"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308",
@@ -71816,7 +71796,11 @@
                 {
                     "label": "Identifier",
                     "value": "13. The quality of the birth of the lamp of gnosis"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ཡེ་ཤེས་སྒྲོན་མེ་བལྟམ་པའི་ཡོན་ཏན "
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_327",
@@ -71870,7 +71854,11 @@
                 {
                     "label": "Identifier",
                     "value": "14. The quality of his greater abilities"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ནུས་པ་ཆེ་བའི་ཡོན་ཏན་ "
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_366",
@@ -71895,7 +71883,11 @@
                 {
                     "label": "Identifier",
                     "value": "15. The quality of the greatness of his blessing"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "བྱིན་བརླབ་ཆེ་བའི་ཡོན་ཏན་ </span>"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_376",
@@ -72013,7 +72005,11 @@
                 {
                     "label": "Identifier",
                     "value": "16. The quality of mastered meditative concentration"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པའི་ཡོན་ཏན </span>"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_479",
@@ -72033,10 +72029,14 @@
                 {
                     "label": "Identifier",
                     "value": "17. The quality of direct encounter with the great seal of Mahamudra"
-                }
+                },
+                        {
+                            "label": "Tibetan",
+                            "value": "ཕྱག་རྒྱ་ཆེན་པོ་ངོ་སྤྲོད་པའི་ཡོན་ཏན "
+                        }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_484",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_484#xywh=100,500,500,500",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_485",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_486",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_487",
