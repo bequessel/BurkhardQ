@@ -3856,6 +3856,94 @@
                     "related": ""
                 },
                 {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_47a",
+                    "@type": "sc:Canvas",
+                    "label": "f.21v",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.21v"
+                        }
+                    ],
+                    "height": 2059,
+                    "width": 8421,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_47",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/47.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/47.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 131,
+                                        "height": 32
+                                    },
+                                    {
+                                        "width": 263,
+                                        "height": 64
+                                    },
+                                    {
+                                        "width": 526,
+                                        "height": 128
+                                    },
+                                    {
+                                        "width": 1052,
+                                        "height": 257
+                                    }
+                                ],
+                                "height": 2059,
+                                "width": 8421
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_47a"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_48",
                     "@type": "sc:Canvas",
                     "label": "f.22r",
@@ -4379,6 +4467,94 @@
                                 "width": 8512
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_53"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_53a",
+                    "@type": "sc:Canvas",
+                    "label": "f.24v",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.24v"
+                        }
+                    ],
+                    "height": 2105,
+                    "width": 8512,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_53",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/53.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/53.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 133,
+                                        "height": 32
+                                    },
+                                    {
+                                        "width": 266,
+                                        "height": 65
+                                    },
+                                    {
+                                        "width": 532,
+                                        "height": 131
+                                    },
+                                    {
+                                        "width": 1064,
+                                        "height": 263
+                                    }
+                                ],
+                                "height": 2105,
+                                "width": 8512
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_53a"
                         }
                     ],
                     "related": ""
@@ -5699,6 +5875,94 @@
                                 "width": 8356
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_68"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_68a",
+                    "@type": "sc:Canvas",
+                    "label": "f.32r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.32r"
+                        }
+                    ],
+                    "height": 2132,
+                    "width": 8356,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_68",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/68.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/68.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 130,
+                                        "height": 33
+                                    },
+                                    {
+                                        "width": 261,
+                                        "height": 66
+                                    },
+                                    {
+                                        "width": 522,
+                                        "height": 133
+                                    },
+                                    {
+                                        "width": 1044,
+                                        "height": 266
+                                    }
+                                ],
+                                "height": 2132,
+                                "width": 8356
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_68a"
                         }
                     ],
                     "related": ""
@@ -10700,6 +10964,94 @@
                     "related": ""
                 },
                 {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_124a",
+                    "@type": "sc:Canvas",
+                    "label": "f.60r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.60r"
+                        }
+                    ],
+                    "height": 2143,
+                    "width": 8421,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_124",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/124.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                               "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/124.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 131,
+                                        "height": 33
+                                    },
+                                    {
+                                        "width": 263,
+                                        "height": 66
+                                    },
+                                    {
+                                        "width": 526,
+                                        "height": 133
+                                    },
+                                    {
+                                        "width": 1052,
+                                        "height": 267
+                                    }
+                                ],
+                                "height": 2143,
+                                "width": 8421
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_124a"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_125",
                     "@type": "sc:Canvas",
                     "label": "f.60v",
@@ -11399,6 +11751,93 @@
                                 "width": 8421
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_132"
+                        }
+                    ],
+                    "related": ""
+                }, {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_132",
+                    "@type": "sc:Canvas",
+                    "label": "f.64r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.64r"
+                        }
+                    ],
+                    "height": 2160,
+                    "width": 8421,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_132a",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/132.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/132.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 131,
+                                        "height": 33
+                                    },
+                                    {
+                                        "width": 263,
+                                        "height": 67
+                                    },
+                                    {
+                                        "width": 526,
+                                        "height": 135
+                                    },
+                                    {
+                                        "width": 1052,
+                                        "height": 270
+                                    }
+                                ],
+                                "height": 2160,
+                                "width": 8421
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_132a"
                         }
                     ],
                     "related": ""
@@ -12807,6 +13246,94 @@
                                 "width": 8744
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_148"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_148",
+                    "@type": "sc:Canvas",
+                    "label": "f.72r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.72r"
+                        }
+                    ],
+                    "height": 2149,
+                    "width": 8744,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_148a",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/148.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/148.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 136,
+                                        "height": 33
+                                    },
+                                    {
+                                        "width": 273,
+                                        "height": 67
+                                    },
+                                    {
+                                        "width": 546,
+                                        "height": 134
+                                    },
+                                    {
+                                        "width": 1093,
+                                        "height": 268
+                                    }
+                                ],
+                                "height": 2149,
+                                "width": 8744
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_148a"
                         }
                     ],
                     "related": ""
@@ -17730,6 +18257,94 @@
                     "related": ""
                 },
                 {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_204a",
+                    "@type": "sc:Canvas",
+                    "label": "f.100r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.100r"
+                        }
+                    ],
+                    "height": 2148,
+                    "width": 8421,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_204",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/204.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/204.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 131,
+                                        "height": 33
+                                    },
+                                    {
+                                        "width": 263,
+                                        "height": 67
+                                    },
+                                    {
+                                        "width": 526,
+                                        "height": 134
+                                    },
+                                    {
+                                        "width": 1052,
+                                        "height": 268
+                                    }
+                                ],
+                                "height": 2148,
+                                "width": 8421
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_204a"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_205",
                     "@type": "sc:Canvas",
                     "label": "f.100v",
@@ -18605,6 +19220,94 @@
                                 "width": 8421
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_214"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_214a",
+                    "@type": "sc:Canvas",
+                    "label": "f.105r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.105r"
+                        }
+                    ],
+                    "height": 2140,
+                    "width": 8421,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_214",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/214.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/214.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 131,
+                                        "height": 33
+                                    },
+                                    {
+                                        "width": 263,
+                                        "height": 66
+                                    },
+                                    {
+                                        "width": 526,
+                                        "height": 133
+                                    },
+                                    {
+                                        "width": 1052,
+                                        "height": 267
+                                    }
+                                ],
+                                "height": 2140,
+                                "width": 8421
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_214a"
                         }
                     ],
                     "related": ""
@@ -24858,6 +25561,94 @@
                     "related": ""
                 },
                 {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_285a",
+                    "@type": "sc:Canvas",
+                    "label": "f.140v",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.140v"
+                        }
+                    ],
+                    "height": 2264,
+                    "width": 8744,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_285",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/285.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/285.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 136,
+                                        "height": 35
+                                    },
+                                    {
+                                        "width": 273,
+                                        "height": 70
+                                    },
+                                    {
+                                        "width": 546,
+                                        "height": 141
+                                    },
+                                    {
+                                        "width": 1093,
+                                        "height": 283
+                                    }
+                                ],
+                                "height": 2264,
+                                "width": 8744
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_285a"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_286",
                     "@type": "sc:Canvas",
                     "label": "f.141r",
@@ -25645,6 +26436,94 @@
                                 "width": 8744
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_294"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_294a",
+                    "@type": "sc:Canvas",
+                    "label": "f.145r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.145r"
+                        }
+                    ],
+                    "height": 2216,
+                    "width": 8744,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_294",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/294.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/294.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 136,
+                                        "height": 34
+                                    },
+                                    {
+                                        "width": 273,
+                                        "height": 69
+                                    },
+                                    {
+                                        "width": 546,
+                                        "height": 138
+                                    },
+                                    {
+                                        "width": 1093,
+                                        "height": 277
+                                    }
+                                ],
+                                "height": 2216,
+                                "width": 8744
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_294a"
                         }
                     ],
                     "related": ""
@@ -26877,6 +27756,94 @@
                                 "width": 8799
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308a",
+                    "@type": "sc:Canvas",
+                    "label": "f.152r (illust.)",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.152r (illust.)"
+                        }
+                    ],
+                    "height": 2303,
+                    "width": 8799,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_308",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/308.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/308.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 137,
+                                        "height": 35
+                                    },
+                                    {
+                                        "width": 274,
+                                        "height": 71
+                                    },
+                                    {
+                                        "width": 549,
+                                        "height": 143
+                                    },
+                                    {
+                                        "width": 1099,
+                                        "height": 287
+                                    }
+                                ],
+                                "height": 2303,
+                                "width": 8799
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308a"
                         }
                     ],
                     "related": ""
@@ -28549,6 +29516,94 @@
                                 "width": 8799
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_327"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_327a",
+                    "@type": "sc:Canvas",
+                    "label": "f.161v (illust.)",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.161v (illust.)"
+                        }
+                    ],
+                    "height": 2303,
+                    "width": 8799,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_327",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/327.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/327.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 137,
+                                        "height": 35
+                                    },
+                                    {
+                                        "width": 274,
+                                        "height": 71
+                                    },
+                                    {
+                                        "width": 549,
+                                        "height": 143
+                                    },
+                                    {
+                                        "width": 1099,
+                                        "height": 287
+                                    }
+                                ],
+                                "height": 2303,
+                                "width": 8799
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_327a"
                         }
                     ],
                     "related": ""
@@ -31986,6 +33041,94 @@
                     "related": ""
                 },
                 {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_366a",
+                    "@type": "sc:Canvas",
+                    "label": "f.181r (illust.)",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.181r (illust.)"
+                        }
+                    ],
+                    "height": 2303,
+                    "width": 8799,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_366",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/366.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/366.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 137,
+                                        "height": 35
+                                    },
+                                    {
+                                        "width": 274,
+                                        "height": 71
+                                    },
+                                    {
+                                        "width": 549,
+                                        "height": 143
+                                    },
+                                    {
+                                        "width": 1099,
+                                        "height": 287
+                                    }
+                                ],
+                                "height": 2303,
+                                "width": 8799
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_366a"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_367",
                     "@type": "sc:Canvas",
                     "label": "f.181v (illust.)",
@@ -32861,6 +34004,94 @@
                                 "width": 8799
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_376"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_376a",
+                    "@type": "sc:Canvas",
+                    "label": "f.186r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.186r"
+                        }
+                    ],
+                    "height": 2303,
+                    "width": 8799,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_376",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/376.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/376.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 137,
+                                        "height": 35
+                                    },
+                                    {
+                                        "width": 274,
+                                        "height": 71
+                                    },
+                                    {
+                                        "width": 549,
+                                        "height": 143
+                                    },
+                                    {
+                                        "width": 1099,
+                                        "height": 287
+                                    }
+                                ],
+                                "height": 2303,
+                                "width": 8799
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_376a"
                         }
                     ],
                     "related": ""
@@ -41930,6 +43161,95 @@
                     "related": ""
                 },
                 {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_479a",
+                    "@type": "sc:Canvas",
+                    "label": "f.237v",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.237v"
+                        }
+                    ],
+                    "height": 2251,
+                    "width": 8911,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_479",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/479.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/479.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 139,
+                                        "height": 35
+                                    },
+                                    {
+                                        "width": 278,
+                                        "height": 70
+                                    },
+                                    {
+                                        "width": 556,
+                                        "height": 140
+                                    },
+                                    {
+                                        "width": 1113,
+                                        "height": 281
+                                    }
+                                ],
+                                "height": 2251,
+                                "width": 8911
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_479a"
+                        }
+                    ],
+                    "related": ""
+                },
+                
+                {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_480",
                     "@type": "sc:Canvas",
                     "label": "f.238r",
@@ -42365,6 +43685,94 @@
                                 "width": 8911
                             },
                             "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_484"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_484a",
+                    "@type": "sc:Canvas",
+                    "label": "f.240r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.240r"
+                        }
+                    ],
+                    "height": 2251,
+                    "width": 8911,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_484",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/484.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/484.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 139,
+                                        "height": 35
+                                    },
+                                    {
+                                        "width": 278,
+                                        "height": 70
+                                    },
+                                    {
+                                        "width": 556,
+                                        "height": 140
+                                    },
+                                    {
+                                        "width": 1113,
+                                        "height": 281
+                                    }
+                                ],
+                                "height": 2251,
+                                "width": 8911
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_484a"
                         }
                     ],
                     "related": ""
@@ -71364,7 +72772,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_47",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_47a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_48",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_49",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_50",
@@ -71389,7 +72797,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_53",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_53a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_54",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_55",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_56",
@@ -71423,7 +72831,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_68",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_68a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_69",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_70",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_71",
@@ -71517,7 +72925,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_124",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_124a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_125",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_126",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_127",
@@ -71544,7 +72952,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_132",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_132a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_133",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_134",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_135",
@@ -71579,7 +72987,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_148",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_148a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_149",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_150",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_151",
@@ -71654,7 +73062,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_204",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_204a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_205",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_206",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_207",
@@ -71683,7 +73091,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_214",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_214a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_215",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_216",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_217",
@@ -71773,7 +73181,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_285",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_285a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_286",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_287",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_288",
@@ -71820,7 +73228,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_294",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_294a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_295",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_296",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_297",
@@ -71853,7 +73261,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_308a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_309",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_310",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_311",
@@ -71891,7 +73299,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_327",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_327a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_328",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_329",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_330",
@@ -71949,7 +73357,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_366",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_366a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_367",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_368",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_369",
@@ -71978,7 +73386,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_376",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_376a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_377",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_378",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_379",
@@ -72100,7 +73508,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_479",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_479a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_480",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_481",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_482",
@@ -72124,7 +73532,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_484",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_484a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_485",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_486",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_487",
