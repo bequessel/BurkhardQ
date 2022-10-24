@@ -9576,6 +9576,94 @@
                     "related": ""
                 },
                 {
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_112a",
+                    "@type": "sc:Canvas",
+                    "label": "f.54r",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "f.54r"
+                        }
+                    ],
+                    "height": 2190,
+                    "width": 8421,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_112",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/112.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.eap.bl.uk/EAP000/EAP000_1_1/112.jp2",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level1.json",
+                                        {
+                                            "formats": ["jpg"],
+                                            "qualities": [
+                                                "native",
+                                                "color",
+                                                "gray"
+                                            ],
+                                            "supports": [
+                                                "regionByPct",
+                                                "regionSquare",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "sizeAboveFull",
+                                                "rotationBy90s",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "tiles": [
+                                    {
+                                        "width": 256,
+                                        "height": 256,
+                                        "scaleFactors": [
+                                            1,
+                                            2,
+                                            4,
+                                            8,
+                                            16,
+                                            32,
+                                            64
+                                        ]
+                                    }
+                                ],
+                                "sizes": [
+                                    {
+                                        "width": 131,
+                                        "height": 34
+                                    },
+                                    {
+                                        "width": 263,
+                                        "height": 68
+                                    },
+                                    {
+                                        "width": 526,
+                                        "height": 136
+                                    },
+                                    {
+                                        "width": 1052,
+                                        "height": 273
+                                    }
+                                ],
+                                "height": 2190,
+                                "width": 8421
+                            },
+                            "on": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_112a"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
                     "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_113",
                     "@type": "sc:Canvas",
                     "label": "f.54v",
@@ -71398,7 +71486,7 @@
                         }
             ],
             "canvases": [
-                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_112",
+                "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_112a",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_113",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_114",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_115",
