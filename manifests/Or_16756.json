@@ -13251,7 +13251,7 @@
                     "related": ""
                 },
                 {
-                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_148",
+                    "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_148a",
                     "@type": "sc:Canvas",
                     "label": "f.72r",
                     "metadata": [
@@ -13265,7 +13265,7 @@
                     "images": [
                         {
                             "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_148a",
+                            "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/image_148",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
