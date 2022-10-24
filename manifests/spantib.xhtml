@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+            <title>contains demo for content depending formatting</title>
+            <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    </head>
+    <body>
+        <div>John Resig</div>
+        <div>George Martin</div>
+        <span>པ་</span>
+        <div>Malcom John Sinclair</div>
+        <span>དཔལ་བཞད་པ་རྡོ་རྗེའི་རྣམ་ཐར་འགུར་མ་འཆིངས་དང་བཅས</span>
+        <div>J. Ohn</div>
+        
+        <script>
+$( "span:contains('་')" ).css( "font-size", "xx-large" );
+</script>
+        <script>
+$( "span:contains('་')" ).css( "color", "red" );
+</script>
+        
+    </body>
+</html>

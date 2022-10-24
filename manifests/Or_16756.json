@@ -8,7 +8,7 @@
     "viewingDirection": "left-to-right",
     "description": [
         {
-            "@value": "<span>A 16th century manuscript from the Stag lung tradition which represents the bu chen bcu gnyis version of  Milarepa&apos;s life story and songs.</span>",
+            "@value": "A 16th century manuscript from the Stag lung tradition which represents the bu chen bcu gnyis version of  Milarepa&apos;s life story and songs.",
             "@language": "en"
         }
     ],
@@ -23,7 +23,7 @@
         },
         {
             "label": "Title",
-            "value": "<span is=\"bo\">དཔལ་བཞད་པ་རྡོ་རྗེའི་རྣམ་ཐར་འགུར་མ་འཆིངས་དང་བཅས་</span>"
+            "value": "དཔལ་བཞད་པ་རྡོ་རྗེའི་རྣམ་ཐར་འགུར་མ་འཆིངས་དང་བཅས་"
         },
         {
             "label": "Creator",
@@ -337,7 +337,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">རིགས་དང་འབྲེལ་བ་དཀའ་བ་སྤྱད་པའི་ཡོན་ཏན</span>"
+                            "value": "རིགས་དང་འབྲེལ་བ་དཀའ་བ་སྤྱད་པའི་ཡོན་ཏན"
                         },
                         {
                             "label": "Content",
@@ -3781,7 +3781,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ཏིང་ངེ་འཛིན་དང་འབྲེལ་པའི་ཉམས་སུ་མྱོང་བའི་ཡོན་ཏན་བཅུ་བདུན--- འཁོར་བ་ལ་སྙིང་པོ་མེད་པའི་ཡོན་ཏན་</span>"
+                            "value": "ཏིང་ངེ་འཛིན་དང་འབྲེལ་པའི་ཉམས་སུ་མྱོང་བའི་ཡོན་ཏན་བཅུ་བདུན--- འཁོར་བ་ལ་སྙིང་པོ་མེད་པའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2059,
@@ -4313,7 +4313,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">རྨི་ལམ་བརྡར་ཤར་བའི་ཡོན་ཏན</span>"
+                            "value": "རྨི་ལམ་བརྡར་ཤར་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2105,
@@ -5637,7 +5637,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">བདེ་དྲོད་ངོ་འཕྲོད་པའི་ཡོན་ཏན་</span>"
+                            "value": "བདེ་དྲོད་ངོ་འཕྲོད་པའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2132,
@@ -9513,7 +9513,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ཟས་གོས་༼ཀྱིས༽་འདུན་པ་དང་བྲལ་བའི་ཡོན་ཏན་</span>"
+                            "value": "ཟས་གོས་༼ཀྱིས༽་འདུན་པ་དང་བྲལ་བའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2190,
@@ -10553,7 +10553,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ཉམ༼ས༽་མྱོང་བདེ་བར་ཤར་བའི་ཡོན་ཏན</span>"
+                            "value": "ཉམ༼ས༽་མྱོང་བདེ་བར་ཤར་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2143,
@@ -11261,7 +11261,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">རྟོགས་པ་ལམ་དུ་ཤར་བའི་ཡོན་ཏན་</span>"
+                            "value": "རྟོགས་པ་ལམ་དུ་ཤར་བའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2160,
@@ -12673,7 +12673,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">མཐུན་རྐྱེན་ཏུ་ཤར་བའི་ཡོན་ཏན</span>"
+                            "value": "མཐུན་རྐྱེན་ཏུ་ཤར་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2149,
@@ -17595,7 +17595,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ཆོས་བརྒྱད་རང་གྲོལ་གྱི་ཡོན་ཏན</span>"
+                            "value": "ཆོས་བརྒྱད་རང་གྲོལ་གྱི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2148,
@@ -18479,7 +18479,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">རྩོད་པས་མི་རྫི་བའི་ཡོན་ཏན</span>"
+                            "value": "རྩོད་པས་མི་རྫི་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2140,
@@ -24731,7 +24731,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">དྲིན་ལེན་༼ལན་༽བསབས་པའི་ཡོན་ཏན་</span>"
+                            "value": "དྲིན་ལེན་༼ལན་༽བསབས་པའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2264,
@@ -25527,7 +25527,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">སྤྱོད་པ་ཆེ་བའི་ཡོན་ཏན་</span>"
+                            "value": "སྤྱོད་པ་ཆེ་བའི་ཡོན་ཏན་"
                         }
                     ],
                     "height": 2216,
@@ -26763,7 +26763,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ལྷའི་ལྷར་གྱུར་བའི་ཡོན་ཏན</span>"
+                            "value": "ལྷའི་ལྷར་གྱུར་བའི་ཡོན་ཏན"
                         }
                     ],
                     "height": 2303,
@@ -28439,7 +28439,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ཡེ་ཤེས་སྒྲོན་མེ་བལྟམ་པའི་ཡོན་ཏན </span>"
+                            "value": "ཡེ་ཤེས་སྒྲོན་མེ་བལྟམ་པའི་ཡོན་ཏན "
                         }
                     ],
                     "height": 2303,
@@ -31875,7 +31875,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ནུས་པ་ཆེ་བའི་ཡོན་ཏན་ </span>"
+                            "value": "ནུས་པ་ཆེ་བའི་ཡོན་ཏན་ "
                         }
                     ],
                     "height": 2303,
@@ -32759,7 +32759,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">བྱིན་བརླབ་ཆེ་བའི་ཡོན་ཏན་ </span>"
+                            "value": "བྱིན་བརླབ་ཆེ་བའི་ཡོན་ཏན་ </span>"
                         }
                     ],
                     "height": 2303,
@@ -41827,7 +41827,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པའི་ཡོན་ཏན </span>"
+                            "value": "ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པའི་ཡོན་ཏན </span>"
                         }
                     ],
                     "height": 2251,
@@ -42271,7 +42271,7 @@
                         },
                         {
                             "label": "Title",
-                            "value": "<span is=\"bo\">ཕྱག་རྒྱ་ཆེན་པོ་ངོ་སྤྲོད་པའི་ཡོན་ཏན </span>"
+                            "value": "ཕྱག་རྒྱ་ཆེན་པོ་ངོ་སྤྲོད་པའི་ཡོན་ཏན </span>"
                         }
                     ],
                     "height": 2251,
@@ -71247,7 +71247,11 @@
                 {
                     "label": "Identifier",
                     "value": "Qualities of dealing with the difficulty connected with his family"
-                }
+                },
+                {
+                            "label": "Title",
+                            "value": "རིགས་དང་འབྲེལ་བ་དཀའ་བ་སྤྱད་པའི་ཡོན་ཏན"
+                        }
             ],
             "canvases": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_8",
