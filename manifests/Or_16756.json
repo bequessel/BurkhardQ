@@ -72725,7 +72725,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3",
             "@type": "sc:Range",
             "label": "The 17 qualities of experiences in connection with  samādhi",
-            "viewingHint": "individuals",
+            "viewingHint": "top",
             "metadata": [
                 {
                     "label": "Identifier",
