@@ -4,7 +4,7 @@
     "@type": "sc:Manifest",
     "label": "The Life and Songs of the Yogi Milarepa",
     "behavior": ["individuals"],
-    
+    "viewingHint": "individuals",
     "viewingDirection": "left-to-right",
     "description": [
         {
@@ -53,7 +53,6 @@
             "label": "View at The British Library"
         }
     ],
-    
     "service": [
         {
             "@context": "http://iiif.io/api/auth/0/context.json",
@@ -82,8 +81,6 @@
             "@id": "http://access.bl.uk/item/print/ark:/81055/vdc_100052141780.0x000001",
             "profile": "http://universalviewer.io/print-extensions-profile"
         }
-}
-
     ],
     "logo": "https://www.bl.uk/images/bl_logo_100.gif",
     "license": "https://creativecommons.org/licenses/by/3.0/",
@@ -145,7 +142,7 @@
                     "@language": "en"
                 }
             ],
-            
+            "viewingHint": "individuals",
             "viewingDirection": "left-to-right",
             "startCanvas": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_6",
             "canvases": [
@@ -72653,7 +72650,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_1",
             "@type": "sc:Range",
             "label": "Introduction",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72670,7 +72667,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_2",
             "@type": "sc:Range",
             "label": "Qualities of dealing with the difficulties connected with his family",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72728,7 +72725,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3",
             "@type": "sc:Range",
             "label": "The 17 qualities of experiences in connection with  samādhi",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72739,7 +72736,6 @@
                             "value": "ཏིང་ངེ་འཛིན་དང་འབྲེལ་པའི་ཉམས་སུ་མྱོང་བའི་ཡོན་ཏན་བཅུ་བདུན"
                         }
             ],
-             "canvases": [],
             "ranges": [
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_1",
                 "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_2",
@@ -72764,7 +72760,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_1",
             "@type": "sc:Range",
             "label": "1. The qualities of the lack of essence to samsara",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72789,7 +72785,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_2",
             "@type": "sc:Range",
             "label": "2. The quality of dreams arisen as symbols",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72823,7 +72819,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_3",
             "@type": "sc:Range",
             "label": "3. The quality of being acquainted with bliss-warmth",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72886,7 +72882,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_4",
             "@type": "sc:Range",
             "label": "4. The freedom from craving for food and clothing",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72917,7 +72913,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_5",
             "@type": "sc:Range",
             "label": "5. The quality of the dawning of blissful experience",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72944,7 +72940,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_6",
             "@type": "sc:Range",
             "label": "6. The quality of the dawning of realization path",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -72979,7 +72975,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_7",
             "@type": "sc:Range",
             "label": "7. The quality of the dawning of agreeable conditions [for appearances]",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73054,7 +73050,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_8",
             "@type": "sc:Range",
             "label": "8. The dawning of the eight worldly attitudes as naturally free",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73083,7 +73079,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_9",
             "@type": "sc:Range",
             "label": "9. The quality of not being disturbed by debate",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73173,7 +73169,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_10",
             "@type": "sc:Range",
             "label": "10. The quality of repaying past kindnesses",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73201,7 +73197,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_5",
             "@type": "sc:Range",
             "label": "Explicit and Colophon",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73220,7 +73216,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_11",
             "@type": "sc:Range",
             "label": "11. The quality of his greater conduct",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73253,7 +73249,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_12",
             "@type": "sc:Range",
             "label": "12. The quality of having become a god among gods",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73291,7 +73287,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_13",
             "@type": "sc:Range",
             "label": "13. The quality of the birth of the lamp of gnosis",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73349,7 +73345,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_14",
             "@type": "sc:Range",
             "label": "14. The quality of his greater abilities",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73378,7 +73374,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_15",
             "@type": "sc:Range",
             "label": "15. The quality of the greatness of his blessing",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73500,7 +73496,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_16",
             "@type": "sc:Range",
             "label": "16. The quality of mastered meditative concentration",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73524,7 +73520,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_3_17",
             "@type": "sc:Range",
             "label": "17. The quality of direct encounter with the great seal of Mahamudra",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73847,7 +73843,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4",
             "@type": "sc:Range",
             "label": "Extra images",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73863,7 +73859,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4_1",
             "@type": "sc:Range",
             "label": "Extra images pt 1",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
@@ -73881,7 +73877,7 @@
             "@id": "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/range_1_4_2",
             "@type": "sc:Range",
             "label": "Extra images -- cover",
-            
+            "viewingHint": "individuals",
             "metadata": [
                 {
                     "label": "Identifier",
