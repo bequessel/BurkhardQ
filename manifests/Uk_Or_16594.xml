@@ -1,0 +1,128 @@
+<?altova_sps ../msdesc.sps?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader rend="visible">
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<funder>BL</funder>
+				<author>
+					<orgName key="bo"/>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>The British Library</publisher>
+				<idno>Uk</idno>
+				<date calendar="Gregorian">2011-08-17</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Uk_Or_1659" xml:lang="en" rend="physdesc">
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<settlement>London</settlement>
+						<institution>British Library</institution>
+						<repository>St. Pancras</repository>
+						<collection>Oriental Manuscripts</collection>
+						<idno>Or 16594</idno>
+						<altIdentifier type="other">
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>Manuscript of a Tibetan Bhadrakalpikasūtra</head>
+					<msContents>
+						<summary>A Tibetan manuscript copy of the Bhadrakalpikasūtra</summary>
+						<textLang mainLang="bo"/>
+						<msItem rend="visible">
+							<locus n=""/>
+							<title xml:lang="bo-Latn-x-EWTS">&apos;phags pa bskal pa bzang po ka dum dbu&apos;o</title>
+							<title xml:lang="bo">འཕགས་པ་བསྐལ་པ་བཟང་པོ་ཀ་དུམ་དབུའོ</title>
+							<title xml:lang="sa-Latn">ārya bhadrakalpika mahāyānasūtra</title>
+						</msItem>
+						<msItem>
+							<title xml:lang="bo-Latn-x-EWTS">&apos;phags pa bskal pa bzang po kha dom dbu phyogs lags so</title>
+							<title xml:lang="bo">འཕགས་པ་བསྐལ་པ་བཟང་པོ་ཁ་དོམ་དབུ་ཕྱོགས་ལགས་སོ</title>
+							<note>
+								<p>Starts with chapter 14.</p>
+							</note>
+							<decoNote type="illustration">
+								<locus n="1v"/>Śākyamuni (left), ? (right)</decoNote>
+							<decoNote type="illustration">
+								<locus n="2r"/>Amitāyus (left), Padmasambhava (right)</decoNote>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="leaf">
+							<supportDesc material="chart">
+								<extent>Ka: 1-51,52/3,54, 55, 56 (3x),57 (2x),58-150,155-183,185-199,201/2 -233, Kha: <dimensions type="leaf" unit="mm">
+										<height>605</height>
+										<width>205</width>
+									</dimensions>
+									<dimensions type="written" unit="mm">
+										<height>501</height>
+										<width>123</width>
+									</dimensions>
+								</extent>
+								<foliation>
+									<p>
+										<fw place="margin" type="pageNum" xml:lang="bo"/>Volume signature ka and kha for volume one and 2. </p>
+								</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<layout columns="1">
+									<p/>
+								</layout>
+							</layoutDesc>
+						</objectDesc>
+					</physDesc>
+					<history>
+						<origin notBefore="1700" notAfter="1950">
+							<origPlace>Tibet</origPlace>
+						</origin>
+						<provenance>
+							<p>Tibetan Himalaya region.</p>
+						</provenance>
+						<acquisition>
+							<date>2008-12</date>
+							<p>bequeathed by Andrew Bertie (1929-2008), formerly Prince &amp; Grand Master of the Sovereign Military Hospitaller Order of St John.</p>
+						</acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source/>
+							</recordHist>
+							<availability status="restricted">
+								<p/>
+							</availability>
+							<note/>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="LCSH">
+					<bibl>
+						<ref target="http://id.loc.gov/authorities/">Library of Congress Subject
+                            Headings</ref>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc/>
+		<revisionDesc status="draft">
+			<change when="2012-11-13">
+				<name type="person">Burkhard Quessel</name>
+			</change>
+			<!-- Your revisionDesc should include information concerning 
+            major changes to the electronic file.  Replace the above 
+            with something more suitable.   -->
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<!-- If you had a transcription of the manuscript you would put it here -->
+			<p/>
+		</body>
+	</text>
+</TEI>
