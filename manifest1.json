@@ -1,0 +1,1053 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://your_domain.com/tiffs/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Collection of Pyramidal TIFF Images",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04820.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04820.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04820.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04820.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04820.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04867.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04867.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04867.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04867.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04867.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04856.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04856.tif",
+                    "height": 3514,
+                    "width": 7108,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04856.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 3514,
+                                "width": 7108,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04856.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04856.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04835.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04835.tif",
+                    "height": 4173,
+                    "width": 2369,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04835.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 4173,
+                                "width": 2369,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04835.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04835.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04850.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04850.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04850.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04850.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04850.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04829.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04829.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04829.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04829.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04829.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04852.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04852.tif",
+                    "height": 4198,
+                    "width": 3088,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04852.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 4198,
+                                "width": 3088,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04852.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04852.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04824.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04824.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04824.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04824.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04824.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04828.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04828.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04828.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04828.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04828.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04844.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04844.tif",
+                    "height": 7952,
+                    "width": 3848,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04844.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 3848,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04844.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04844.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04837.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04837.tif",
+                    "height": 4856,
+                    "width": 4648,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04837.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 4856,
+                                "width": 4648,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04837.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04837.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04863.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04863.tif",
+                    "height": 2360,
+                    "width": 6911,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04863.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 2360,
+                                "width": 6911,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04863.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04863.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04827.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04827.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04827.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04827.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04827.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04842.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04842.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04842.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04842.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04842.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04865.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04865.tif",
+                    "height": 4689,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04865.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 4689,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04865.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04865.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04841.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04841.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04841.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04841.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04841.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04832.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04832.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04832.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04832.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04832.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04843.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04843.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04843.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04843.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04843.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC05560.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC05560.tif",
+                    "height": 2913,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC05560.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 2913,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC05560.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC05560.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04825.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04825.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04825.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04825.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04825.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04854.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04854.tif",
+                    "height": 4941,
+                    "width": 6893,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04854.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 4941,
+                                "width": 6893,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04854.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04854.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04822.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04822.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04822.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04822.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04822.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04846.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04846.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04846.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04846.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04846.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04823.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04823.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04823.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04823.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04823.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04831.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04831.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04831.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04831.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04831.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04848.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04848.tif",
+                    "height": 3786,
+                    "width": 2197,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04848.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 3786,
+                                "width": 2197,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04848.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04848.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04821.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04821.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04821.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04821.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04821.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04836.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04836.tif",
+                    "height": 3077,
+                    "width": 3423,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04836.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 3077,
+                                "width": 3423,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04836.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04836.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04853.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04853.tif",
+                    "height": 6281,
+                    "width": 3521,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04853.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 6281,
+                                "width": 3521,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04853.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04853.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04855.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04855.tif",
+                    "height": 3698,
+                    "width": 6767,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04855.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 3698,
+                                "width": 6767,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04855.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04855.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC05559.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC05559.tif",
+                    "height": 3068,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC05559.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 3068,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC05559.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC05559.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04834.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04834.tif",
+                    "height": 4147,
+                    "width": 3653,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04834.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 4147,
+                                "width": 3653,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04834.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04834.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04819.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04819.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04819.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04819.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04819.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04826.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04826.tif",
+                    "height": 5304,
+                    "width": 7952,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04826.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 7952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04826.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04826.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04864.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04864.tif",
+                    "height": 5304,
+                    "width": 6426,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04864.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 5304,
+                                "width": 6426,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04864.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04864.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04851.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04851.tif",
+                    "height": 2940,
+                    "width": 1849,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04851.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 2940,
+                                "width": 1849,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04851.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04851.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04830.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04830.tif",
+                    "height": 7952,
+                    "width": 5304,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04830.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 7952,
+                                "width": 5304,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04830.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04830.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04852_1.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04852_1.tif",
+                    "height": 4526,
+                    "width": 2305,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04852_1.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 4526,
+                                "width": 2305,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04852_1.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04852_1.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04835 1.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04835 1.tif",
+                    "height": 27,
+                    "width": 27,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04835 1.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 27,
+                                "width": 27,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04835 1.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04835 1.tif/canvas"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://your_domain.com/tiffs/DSC04833.tif/canvas",
+                    "@type": "sc:Canvas",
+                    "label": "DSC04833.tif",
+                    "height": 2675,
+                    "width": 1876,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://your_domain.com/tiffs/DSC04833.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tiff",
+                                "height": 2675,
+                                "width": 1876,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://your_domain.com/tiffs/DSC04833.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://your_domain.com/tiffs/DSC04833.tif/canvas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
